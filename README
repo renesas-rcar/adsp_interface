@@ -1,0 +1,19 @@
+ADSP Interface for Linux
+--------------------------
+
+ This file is necessary to create a sample application of ADSP.
+ Please store it in omx folder of ADSP Interface for Linux Package.
+ The user should use this file at his or her own risk.
+
+ This file is OSS.
+ It can be used according to the license term in the file.
+
+License:
+--------
+
+ * Apache License 2.0. ( Refer to document )
+
+Dependencies:
+-------------
+
+ * non
