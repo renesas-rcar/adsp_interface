@@ -1,4 +1,6 @@
 /*******************************************************************************
+ *
+ * Copyright(C) 2017 Renesas Electronics Corporation.
  * Copyright 2016 Cadence Design Systems, Inc.
  * Copyright (C) 2009 The Android Open Source Project
  * 
